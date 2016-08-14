@@ -1,7 +1,7 @@
 # marsrover
 Mars Rover 
 
-Building:
+Building it:
 
 mvn clean package
 
